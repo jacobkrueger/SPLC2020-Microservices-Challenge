@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SPLC2020-Microservices-Challenge
-=======
 # Hipster Shop: Cloud-Native Microservices Demo Application
 
 This project contains a 10-tier microservices application. The application is a
@@ -272,4 +269,3 @@ resources.
 ---
 
 This is not an official Google project.
->>>>>>> 53f25280949d2c41b2c31b11531a852f3a466b52
