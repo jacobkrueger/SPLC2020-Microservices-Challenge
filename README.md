@@ -2,7 +2,7 @@
 
 This repository comprises the artifacts for the 2020 SPLC challenge case "TODO", proposed by TODO
 
-This repository contains six different webshops in separate branches (status as of January 19, 2020):
+This repository contains six different webshops in separate branches (status as of January 19, 2020), each comprising the corresponding source code, documentation, and git histories (the latest commits are merges with this repository!):
 
 - Hipster Shop
   - Original repository: https://github.com/GoogleCloudPlatform/microservices-demo
