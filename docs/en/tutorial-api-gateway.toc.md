@@ -1,0 +1,8 @@
+- [What is API Gateway?](#what-is-api-gateway-)
+- [Circuit Breaker](#circuit-breaker)
+- [Implementing API Gateway with Vert.x](#implementing-api-gateway-with-vert-x)
+	- [Overview](#overview)
+	- [Fault-tolerance support - using Circuit Breaker](#fault-tolerance-support-using-circuit-breaker)
+	- [Reverse Proxy - dispatching requests](#reverse-proxy-dispatching-requests)
+	- [Authentication management](#authentication-management)
+	- [Heart beat check](#heart-beat-check)

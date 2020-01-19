@@ -1,0 +1,16 @@
+= Cheatsheets
+
+[[ApiGatewayOptions]]
+== ApiGatewayOptions
+
+++++
+ This object configures the link instance.
+++++
+'''
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|===
+
