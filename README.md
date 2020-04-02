@@ -25,6 +25,7 @@ This repository contains six different webshops in separate branches (status as 
 
 In this master branch, we collect the information the challenge case:
 
-- Case description in this repository: TODO
-- SPLC 2020 case website: TODO
+- Case description: http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/AssuncaoKMsplc2020microservices.pdf
+- SPLC 2020 case website: https://variability-challenges.github.io/2020/Microservices/index.html
 - SPLC challenges website: https://variability-challenges.github.io/
+- In the folder data, we document the ground truth for the first challenge.
