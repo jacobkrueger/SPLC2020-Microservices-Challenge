@@ -1,6 +1,6 @@
 # SPLC2020-Microservices-Challenge
 
-This repository comprises the artifacts for the 2020 SPLC challenge case "TODO", proposed by TODO
+This repository comprises the artifacts for the 2020 SPLC challenge case "Variability Management meets Microservices: Six Challenges of Re-Engineering Microservice-Based Webshops," proposed by Wesley K. G. Assunção, Jacob Krüger, and Willian D. F. Mendonça (https://doi.org/10.1145/3382025.3414942).
 
 This repository contains six different webshops in separate branches (status as of January 19, 2020), each comprising the corresponding source code, documentation, and git histories (the latest commits are merges with this repository!):
 
